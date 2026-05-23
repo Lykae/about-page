@@ -152,7 +152,7 @@ function Projects() {
               </div>
 
               <p className="text-zinc-400 mt-3 leading-relaxed text-sm">
-                I'm alawys working on something. Visit my GitHub, there is also some more smaller projects on there.
+                I'm always working on something. Visit my GitHub, there is also some more smaller projects on there.
               </p>
             </div>
           </article>
