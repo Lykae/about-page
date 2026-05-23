@@ -14,7 +14,7 @@ function Sidebar() {
         />
 
         {/* Name + meta */}
-        <div className="mt-3 md:mt-4">
+        <div className="mt-3 md:mt-4 mb-4">
           <h1 className="text-4xl md:text-5xl lg:text-4xl font-bold tracking-tight">
             Lyka Mae Schwarz
           </h1>
