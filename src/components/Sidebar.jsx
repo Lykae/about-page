@@ -10,9 +10,15 @@ function Sidebar() {
 
         <img className="w-24 h-24 rounded-2xl bg-linear-to-br from-indigo-500 to-cyan-400" src={pfp} />
 
-        <h1 className="text-4xl font-bold tracking-tight">
-          Lyka Mae Schwarz
-        </h1>
+        <div className="mt-2 mb-2">
+          <h1 className="text-4xl font-bold tracking-tight m-0">
+            Lyka Mae Schwarz
+          </h1>
+
+          <p className="text-zinc-400 mt-3 leading-relaxed">
+            she/her
+          </p>
+        </div>
 
         <p className="text-zinc-400 mt-3 leading-relaxed">
           Fullstack developer
