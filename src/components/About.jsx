@@ -8,7 +8,7 @@ function About() {
 
       <p className="text-zinc-300 leading-relaxed text-lg">
         Developer based in Vienna. 
-        I started properly learning how to code in 2015, when I was 14 and started attending a new school focused on IT. 
+        I began properly learning how to code in 2015, when I was 14 and started attending a new school focused on IT. 
         If you're considering hiring me, contact me under my email for more information.
       </p>
     </section>
