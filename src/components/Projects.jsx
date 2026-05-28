@@ -51,7 +51,7 @@ const projectInfo = [
     name: "Playing Cards Generation",
     description: "Customizable Flutter application to generate standard playing cards, inlcudes extra suit.",
     picture: cardgen,
-    link: "https://lykae.github.io/cardgen"
+    link: "https://github.com/Lykae/cards"
   },
   {
     id: "pefb",
@@ -65,7 +65,7 @@ const projectInfo = [
     name: "PokeTrumps",
     description: "Customizable Pokemon TopTrumps card generation.",
     picture: ptrumps,
-    link: "https://www.hackdex.app/hack/pokemon-emerald-friend-battle"
+    link: "https://github.com/Lykae/poketrumps"
   }
 ];
 
