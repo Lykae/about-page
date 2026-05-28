@@ -7,6 +7,7 @@ import sfs from "./../assets/sfs.png";
 import feigl from "./../assets/feigl_landing.png";
 import pefb from "./../assets/pefb.png";
 import ptrumps from "./../assets/ptrumps.png";
+import cardgen from "./../assets/cardgen.png";
 
 const projectInfo = [
   {
@@ -26,9 +27,10 @@ const projectInfo = [
   {
     id: "feigl",
     name: "Business Homepage",
-    description: "Homepage for a plumbing business.",
+    description: "Homepage for a plumbing business. (Coming Soon)",
     picture: feigl,
-    link: "http://130.162.34.90:5001/"
+    link: ""
+    //link: "http://130.162.34.90:5001/"
   },
   {
     id: "tprush",
@@ -45,9 +47,16 @@ const projectInfo = [
     link: "https://github.com/Lykae/showdown-format-selector"
   },
   {
+    id: "cardgen",
+    name: "Playing Cards Generaation",
+    description: "Customizable Flutter application to generate standard playing cards, inlcudes extra Suit.",
+    picture: cardgen,
+    link: "https://github.com/Lykae/cards"
+  },
+  {
     id: "pefb",
     name: "Emerald Friend Battle",
-    description: "Pokemon Emerald romhack with pass&play multiplayer.",
+    description: "Pokemon Emerald romhack with \"pass and play\" multiplayer.",
     picture: pefb,
     link: "https://www.hackdex.app/hack/pokemon-emerald-friend-battle"
   },
