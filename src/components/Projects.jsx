@@ -48,8 +48,8 @@ const projectInfo = [
   },
   {
     id: "cardgen",
-    name: "Playing Cards Generaation",
-    description: "Customizable Flutter application to generate standard playing cards, inlcudes extra Suit.",
+    name: "Playing Cards Generation",
+    description: "Customizable Flutter application to generate standard playing cards, inlcudes extra suit.",
     picture: cardgen,
     link: "https://lykae.github.io/cardgen"
   },
